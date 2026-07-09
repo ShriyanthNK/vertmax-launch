@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#0b0b10" />
+  <path
+    d="M 250 290 L 480 760 L 740 260"
+    fill="none"
+    stroke="#c8ff2e"
+    stroke-width="88"
+    stroke-linecap="round"
+    stroke-linejoin="miter"
+    stroke-miterlimit="4"
+  />
+  <path d="M 786.14 171.28 L 816.66 361.85 L 612.60 255.74 Z" fill="#c8ff2e" />
+</svg>
