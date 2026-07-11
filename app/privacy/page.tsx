@@ -58,10 +58,11 @@ export default function PrivacyPolicy() {
         <Section title="Information We Collect">
           <p>
             <span className="text-text-primary">Account information.</span>{" "}
-            If you sign in, we use Google Sign-In (via Supabase
-            Authentication) to create your account. We receive your email
-            address and a unique account identifier. We never see or store
-            your Google password.
+            If you sign in, we use Google or Apple Sign-In (via Supabase
+            Authentication) to create your account. We receive your name and
+            email address (or, if you choose to hide your email with Apple,
+            a private relay address) and a unique account identifier. We
+            never see or store your Google or Apple password.
           </p>
           <p>
             <span className="text-text-primary">Camera and microphone.</span>{" "}
