@@ -10,9 +10,17 @@ export function Footer() {
             VERTMAX
           </span>
         </div>
-        <p className="font-body text-[13px] text-text-muted">
-          &copy; 2026 Vertmax. All rights reserved.
-        </p>
+        <div className="flex items-center gap-4">
+          <a
+            href="/privacy"
+            className="font-body text-[13px] text-text-muted hover:text-text-primary"
+          >
+            Privacy Policy
+          </a>
+          <p className="font-body text-[13px] text-text-muted">
+            &copy; 2026 Vertmax. All rights reserved.
+          </p>
+        </div>
       </div>
     </footer>
   );
